@@ -1,0 +1,15 @@
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\bin\Debug\net6.0\Dec062022.exe
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\bin\Debug\net6.0\Dec062022.deps.json
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\bin\Debug\net6.0\Dec062022.runtimeconfig.json
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\bin\Debug\net6.0\Dec062022.dll
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\bin\Debug\net6.0\Dec062022.pdb
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.csproj.AssemblyReference.cache
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.AssemblyInfoInputs.cache
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.AssemblyInfo.cs
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.csproj.CoreCompileInputs.cache
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.dll
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\refint\Dec062022.dll
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.pdb
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\Dec062022.genruntimeconfig.cache
+C:\Users\fortu_mctcvhb\Documents\Project\Dec062022\obj\Debug\net6.0\ref\Dec062022.dll
